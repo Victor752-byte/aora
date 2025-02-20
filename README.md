@@ -1,50 +1,33 @@
-# Welcome to your Expo app 👋
+## 🤖 Introduction
+Developed with React Native for a seamless user experience, Animatable for stunning animations, and Appwrite for a reliable backend, this app combines exceptional design and functionality, enabling effortless AI video sharing within the community.
+## ⚙️ Tech Stack
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+- React Native
+- Expo
+- Nativewind
+- Animatable
+- Appwrite
 
-## Get started
+## 🔋 Features
 
-1. Install dependencies
+👉 Onboarding Screen – Visually engaging graphics and clear instructions to guide new users.
 
-   ```bash
-   npm install
-   ```
+👉 Secure Authentication & Authorization – Email login ensures account security.
 
-2. Start the app
+👉 Animated Home Screen with Flat List – Smooth animations enhance video browsing.
 
-   ```bash
-    npx expo start
-   ```
+👉 Pull-to-Refresh – Easily refresh content with a simple gesture.
 
-In the output, you'll find options to open the app in a
+👉 Full-Text Search – Find videos instantly with real-time suggestions.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+👉 Tab Navigation – Seamless transitions between Home, Search, and Profile.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+👉 Media Upload – Post videos and images directly from the app.
 
-## Get a fresh project
+👉 Profile Screen with Insights – View account details, uploaded videos, and follower stats.
 
-When you're ready, run:
+👉 Responsive Design – Optimized for smooth performance across all devices.
 
-```bash
-npm run reset-project
-```
+👉 Immersive Animations – Enhancing interactivity with the Animatable library.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+And much more, including well-structured code architecture and reusable components for maintainability.
